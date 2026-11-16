@@ -1,0 +1,2 @@
+Dossier réservé aux polices auto-hébergées (optionnel).
+Les polices Instrument Serif et Manrope sont actuellement chargées via Google Fonts.
